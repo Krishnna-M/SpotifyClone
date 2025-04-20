@@ -14,8 +14,8 @@ A sleek and functional Spotify clone built using Swift, mimicking the core featu
 
 ## 🛠 Tech Stack
 
-- Language**: Swift
-- Frameworks**: UIKit, AVFoundation
+- Language: Swift
+- Frameworks: UIKit, AVFoundation
 - Architecture: MVC
 - API: Spotify Web API 
 - Dependency Management: Swift Package Manager
@@ -24,6 +24,17 @@ A sleek and functional Spotify clone built using Swift, mimicking the core featu
 
 - Built from scratch with fully custom UI
 - Used AVPlayer for audio playback
-- Integrated Spotify API for real-time data *(if applicable)*
+- Integrated Spotify API 
 - Handled asynchronous data loading and image caching
 - Adaptive layout that supports all iOS devices
+
+## 📘 What I Learned
+
+- Implementing AVPlayer for smooth audio playback and control
+- Structuring an iOS app using the MVC pattern effectively
+- Building responsive layouts that adapt to all device sizes, including iPhones and iPads
+- Fetching and displaying data asynchronously using URLSession
+- Managing API data and decoding JSON using Codable
+- Creating a dynamic and interactive UI with UITableView, UICollectionView, and custom cells
+- Improving UX with loading indicators, image caching, and playback controls
+- Handling edge cases and ensuring a smooth user experience across the app
