@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone
 
-A sleek and functional Spotify clone built using Swift, mimicking the core features of the popular music streaming app. This project demonstrates audio streaming, modern UI design, and integration of key iOS development concepts.
+This is a simple Spotify clone built using Swift. It has the main features of the real Spotify app like playing songs, searching music, and viewing albums and artists. I created this project to practice iOS development, work with audio playback, and build a clean and responsive user interface.
 
 ## 📱 Features
 
