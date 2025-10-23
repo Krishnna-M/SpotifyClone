@@ -16,7 +16,7 @@ This is a simple Spotify clone built using Swift. It has the main features of th
 
 - Language: Swift
 - Frameworks: UIKit, AVFoundation
-- Architecture: MVC
+- Architecture: MVVM
 - API: Spotify Web API 
 - Dependency Management: Swift Package Manager
 
