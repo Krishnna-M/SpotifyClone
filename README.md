@@ -42,7 +42,7 @@ This is a simple Spotify clone built using Swift. It has the main features of th
 ## 📘 What I Learned
 
 - Implementing AVPlayer for smooth audio playback and control
-- Structuring an iOS app using the MVC pattern effectively
+- Structuring an iOS app using the MVVM pattern effectively
 - Building responsive layouts that adapt to all device sizes, including iPhones and iPads
 - Fetching and displaying data asynchronously using URLSession
 - Managing API data and decoding JSON using Codable
